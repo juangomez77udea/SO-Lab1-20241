@@ -1,1 +1,1 @@
-reverse: cannot open file '/no/such/file.txt'
+usage: reverse <input> <output>
