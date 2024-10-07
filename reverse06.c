@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_LINES 100
-#define MAX_LENGTH 100
+#define MAX_LINES 20
+#define MAX_LENGTH 20
 
 int main(int argc, char *argv[]) {
     if (argc != 3) {

@@ -3,8 +3,6 @@
 #include <string.h>
 #include <sys/stat.h>
 
-#define MAX_LINES 100
-#define MAX_LENGTH 100
 
 int main(int argc, char *argv[]) {
     if (argc != 3) {
@@ -45,5 +43,5 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    return 0;  // Terminar exitosamente
+    return 0;
 }
